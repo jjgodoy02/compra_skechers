@@ -3,3 +3,5 @@ img/
 its-styles/ 
 its-styles_hd/ 
 .venv/ 
+*.xls 
+*.xlsx 
